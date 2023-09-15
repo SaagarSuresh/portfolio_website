@@ -44,8 +44,9 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About Me</SectionTitle>
-      <SectionText>'"Journey and Milestones"'</SectionText>
+      <SectionDivider />
+      <SectionTitle main>About Me</SectionTitle>
+      <SectionText>As a versatile web developer with a background in mechanical engineering and hands-on experience in operations and supply chain management, I bring a unique blend of technical acumen and problem-solving skills to create efficient and innovative web solutions. With a diploma in full-stack web development and proficiency in HTML, CSS, JavaScript, TypeScript, React, Redux, SCSS, Node.js, Express.js, MySQL, Python, Django, C#, and C, I am equipped to design, build, and optimize user-friendly web applications. My ability to bridge the gap between engineering principles and web development, along with a commitment to continuous learning, positions me to deliver high-quality digital solutions that drive results.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
@@ -109,7 +110,6 @@ const Timeline = () => {
 
         ))}
       </CarouselButtons>
-      <SectionDivider />
     </Section>
   );
 };
