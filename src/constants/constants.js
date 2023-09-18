@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/FtT.PNG',
       tags: ['Express', 'React', 'Node'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/hanwkim/fridge-to-table',
     id: 0,
   },
   {
