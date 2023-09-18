@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
+    title: 'Snakes',
+    description: "This is a simple game application inspired by the classic game - SNAKES!",
+      image: '/images/Snakes.PNG',
+      tags: ['HTML', 'CSS', 'JAVASCRIPT', 'DOM'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/SaagarSuresh/Snakes',
     id: 2,
   },
   {
