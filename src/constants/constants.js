@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: 'Fridge to Table',
-    description: "The App is called Fridge to Table and it is a simple app that gives users recipe ideas based on ingredients they have in their fridge (or pantry!). It utilizes a free recipe API called TheMealDB.",
+    description: "The App is called Fridge to Table and it is a simple application that gives users recipe ideas based on ingredients they have in their fridge (or pantry!). It utilizes a free recipe API called TheMealDB. This application was created during a pair programming challenge.",
       image: '/images/FtT.PNG',
-      tags: ['Express', 'React', 'Node'],
+      tags: ['React', 'Node', 'Express'],
     source: 'https://google.com',
     visit: 'https://github.com/hanwkim/fridge-to-table',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    title: '3E-nventory',
+    description:"3E-nventory is an easy, efficient and elegant inventory tracking system. This application is created for a chocolate shop running 3 stores. This application was my capstone project for my web development bootcamp.",
+    image: '/images/3E.PNG',
+    tags: ['React', 'Node', 'Express', 'MySQL'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/SaagarSuresh/3E-nventory-client',
     id: 1,
   },
   {
