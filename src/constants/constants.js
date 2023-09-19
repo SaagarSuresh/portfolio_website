@@ -21,7 +21,7 @@ export const projects = [
     title: 'Snakes',
     description: "This is a simple game application inspired by the classic game - SNAKES!",
       image: '/images/Snakes.PNG',
-      tags: ['HTML', 'CSS', 'JAVASCRIPT', 'DOM'],
+      tags: ['HTML', 'CSS', 'JavaScript', 'DOM'],
     source: null,
     visit: 'https://github.com/SaagarSuresh/Snakes',
     id: 2,
