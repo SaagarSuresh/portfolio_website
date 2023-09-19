@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Gericht',
+    description: "This is a simple front-end website for a high end restaurant.",
+    image: '/images/Gericht.PNG',
+    tags: ['React', 'JavaScript', 'Tailwind CSS'],
+    source: 'https://restaurant-ssr.online/',
+    visit: 'https://github.com/SaagarSuresh/geritch-restaurant',
     id: 3,
   },
 ];
