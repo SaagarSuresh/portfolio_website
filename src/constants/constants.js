@@ -39,10 +39,10 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2008, text: 'Introduced to programming at High School with C++', },
-  { year: 2010, text: 'Looked to pursue Engineering in Computer Science but instead enrolled into Mechanical Engineering, due to unavoidable circumstances', },
-  { year: 2015, text: 'Aspired to join the IT team while I was part of the operations team at a Fintech start-up, and so enrolled at a tech institution to learn DotNet programming at the direction of the IT manager', },
-  { year: 2016, text: 'Promoted to Assistant Manager of Operations since CEO had more resposibilities for me', },
-  { year: 2017, text: 'Wanted to pursue a programming course in Canada but instead enrolled into Supply Chain Management program due to visa issues', },
-  { year: 2022, text: 'Received my Canadian PR and achieved my immigration goal', },
-  { year: 2023, text: 'Enrolled into a bootcamp and successfully completed my diploma for fullstack web development at BrainStation, so as to fulfill my career aspirations of being a programmer', },
+  { year: 2010, text: 'Enrolled into Mechanical Engineering and pursued my interest in tech, working on various software tools', },
+  { year: 2015, text: 'Enrolled at Tech institution to learn dotNet. Simultaneously, worked closely with IT team at Fintech start up for product development', },
+  { year: 2016, text: 'Promoted to Assistant Manager of Operations', },
+  { year: 2017, text: 'Polished my skills at a Supply Chain and Management program while continuing to develop online web solutions and software skills', },
+  { year: 2022, text: 'Continued to practice and apply my SCM skills at Amazon. Received my Canadian PR. Completed LinkedIn certification in Python Programming.', },
+  { year: 2023, text: 'Enrolled into a bootcamp and successfully completed my diploma for fullstack web development at BrainStation', },
 ];
